@@ -1,0 +1,6 @@
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\bin\Release\Renju.exe.config
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\bin\Release\Renju.exe
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\bin\Release\Renju.pdb
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\obj\Release\Renju.exe
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\obj\Release\Renju.pdb
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\obj\Release\Renju.csprojResolveAssemblyReference.cache

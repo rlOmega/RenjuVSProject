@@ -1,0 +1,6 @@
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\bin\Debug\Renju.exe.config
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\obj\Debug\Renju.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\bin\Debug\Renju.exe
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\bin\Debug\Renju.pdb
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\obj\Debug\Renju.exe
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\Renju\Renju\obj\Debug\Renju.pdb
